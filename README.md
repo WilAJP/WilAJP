@@ -1,4 +1,4 @@
-  Junior in Computer Science at Kutztown University
+  Computer Science junior at Kutztown University
   , Reach me by email at WilfredJimenezP@gmail.com
 
 <!---
