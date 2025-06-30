@@ -1,5 +1,4 @@
-  Computer Science junior at Kutztown University
-  , Reach me by email at WilfredJimenezP@gmail.com
+  Computer Science seniour at Kutztown University. 
 
 <!---
 WilAJP/WilAJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
