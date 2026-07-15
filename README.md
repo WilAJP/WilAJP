@@ -1,4 +1,5 @@
-  Computer Science senior at Kutztown University. 
+  Computer Science Grad from Kutztown University
+
 
 <!---
 WilAJP/WilAJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
